@@ -13,5 +13,8 @@ public void animal (){
 System.out.println("I'm animal ! ");
 }
 
+public void animal1 (){
+System.out.println("I'm animal ! ");
+}
 
 }

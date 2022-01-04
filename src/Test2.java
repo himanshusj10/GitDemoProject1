@@ -8,4 +8,10 @@ public class Test2 {
 System.out.println("Hi I'm test 2 !");
 	}
 
+
+public void animal (){
+System.out.println("I'm animal ! ");
+}
+
+
 }

@@ -16,5 +16,8 @@ System.out.println("I'm animal ! ");
 public void animal1 (){
 System.out.println("I'm animal ! ");
 }
+public void day(){
+System.out.println("I'm wednesday! ");
+}
 
 }
